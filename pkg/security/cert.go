@@ -1,6 +1,6 @@
 package security
 
-// HTTPS certificate
+// HTTPS certificate (TLS PKI)
 
 import (
 	"crypto/ecdsa"
